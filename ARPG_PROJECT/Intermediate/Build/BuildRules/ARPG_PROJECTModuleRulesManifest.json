@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"F:\\GIT\\UE5\\ARPG_Project\\Repository\\ARPG_PROJECT\\Source\\ARPG_PROJECT\\ARPG_PROJECT.Build.cs",
+		"F:\\GIT\\UE5\\ARPG_Project\\Repository\\ARPG_PROJECT\\Source\\ARPG_PROJECT.Target.cs",
+		"F:\\GIT\\UE5\\ARPG_Project\\Repository\\ARPG_PROJECT\\Source\\ARPG_PROJECTEditor.Target.cs"
+	],
+	"EngineVersion": "5.2.1"
+}

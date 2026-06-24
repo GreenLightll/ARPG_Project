@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ARPG_PROJECT.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\GIT\UE5\ARPG_Project\Repository\ARPG_PROJECT\Intermediate\Build\Win64\x64\ARPG_PROJECTEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"F:\GIT\UE5\ARPG_Project\Repository\ARPG_PROJECT\Intermediate\Build\Win64\x64\UnrealEditor\Development\ARPG_PROJECT\ARPG_PROJECT.init.gen.cpp.obj"
+"F:\GIT\UE5\ARPG_Project\Repository\ARPG_PROJECT\Intermediate\Build\Win64\x64\UnrealEditor\Development\ARPG_PROJECT\ARPG_PROJECTGameModeBase.gen.cpp.obj"
+"F:\GIT\UE5\ARPG_Project\Repository\ARPG_PROJECT\Intermediate\Build\Win64\x64\UnrealEditor\Development\ARPG_PROJECT\ARPG_PROJECT.cpp.obj"
+"F:\GIT\UE5\ARPG_Project\Repository\ARPG_PROJECT\Intermediate\Build\Win64\x64\UnrealEditor\Development\ARPG_PROJECT\ARPG_PROJECTGameModeBase.cpp.obj"
+"F:\GIT\UE5\ARPG_Project\Repository\ARPG_PROJECT\Intermediate\Build\Win64\x64\UnrealEditor\Development\ARPG_PROJECT\Default.rc2.res"
+/OUT:"F:\GIT\UE5\ARPG_Project\Repository\ARPG_PROJECT\Intermediate\Build\Win64\x64\UnrealEditor\Development\ARPG_PROJECT\UnrealEditor-ARPG_PROJECT.lib"

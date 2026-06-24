@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\git\\ue5\\arpg_project\\repository\\arpg_project\\intermediate\\build\\win64\\unrealeditor\\inc\\arpg_project\\uht\\arpg_project.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\git\\ue5\\arpg_project\\repository\\arpg_project\\intermediate\\build\\win64\\x64\\arpg_projecteditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "f:\\git\\ue5\\arpg_project\\repository\\arpg_project\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\arpg_project\\definitions.arpg_project.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

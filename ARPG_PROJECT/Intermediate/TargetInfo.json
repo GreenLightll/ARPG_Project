@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ARPG_PROJECT",
+			"Path": "F:\\GIT\\UE5\\ARPG_Project\\Repository\\ARPG_PROJECT\\Source\\ARPG_PROJECT.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ARPG_PROJECTEditor",
+			"Path": "F:\\GIT\\UE5\\ARPG_Project\\Repository\\ARPG_PROJECT\\Source\\ARPG_PROJECTEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
